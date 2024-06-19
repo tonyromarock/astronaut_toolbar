@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -c 'source $HOME/.profile; /usr/bin/python3 $HOME/git/astronaut_toolbar/astronaut_toolbar.py'
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Astronaut Toolbar
+Comment=Display number of people in space and their spacecrafts.
